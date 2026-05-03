@@ -228,9 +228,3 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 @stop
-```
-
-
-
-
-{{-- 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 --}}
