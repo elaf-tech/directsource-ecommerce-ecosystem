@@ -1,61 +1,59 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🛒 DirectSource: The Future of B2B E-Commerce
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <img src="https://img.shields.io/badge/Architecture-Scalable-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI/UX-Luxury%20Style-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-green?style=for-the-badge" />
 </p>
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### 💎 The Concept
+**DirectSource** هو نظام إيكولوجي متكامل يهدف إلى رقمنة سلسلة التوريد. يجمع بين قوة **Laravel** في إدارة العمليات المعقدة ومرونة **Flutter** لتوفير تجربة تسوق استثنائية.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+---
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### 🚀 Key Value Propositions
 
-## Learning Laravel
+| 👤 Patient/Customer Journey | 🏭 Supplier Operations | 🔑 Admin Governance |
+| :--- | :--- | :--- |
+| **Direct Sourcing:** الشراء المباشر من الموردين لضمان أقل الأسعار. | **Inventory Mastery:** إدارة شاملة للمخزون، الفئات، والماركات. | **Centralized Control:** لوحة تحكم شاملة لمراقبة جميع العمليات. |
+| **Order Lifecycle:** تتبع حي ومباشر لحالة الطلبات من التأكيد حتى الاستلام. | **Logistics Management:** تنظيم عمليات التوريد مع شركات الشحن المختلفة. | **Data Verification:** التحقق من بيانات المستخدمين والموردين لضمان أمان المنصة. |
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+---
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+### 🛠️ Technical Excellence
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+#### **Backend (The Brain)**
+- **Framework:** Laravel (PHP 8+).
+- **Scalability:** استخدام الـ **Queues** و **Redis** لضمان استقرار النظام تحت ضغط الطلبات العالي.
+- **Security:** هيكلية API قوية مع نظام صلاحيات معقد (Role-based Access Control).
 
-## Laravel Sponsors
+#### **Mobile (The Experience)**
+- **Framework:** Flutter (Android & iOS).
+- **UI/UX:** تصميم **Luxury Style** يركز على سهولة الاستخدام ودعم كامل للغة العربية (RTL).
+- **Real-time:** مزامنة فورية للبيانات بين الويب والتطبيق.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+---
 
-### Premium Partners
+### 📸 Interface Highlights
+*(أضف هنا لقطات شاشة جذابة للمشروع لتعكس مهاراتك التصميمية)*
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+<p align="center">
+  <img src="رابط_صورة_التطبيق" width="30%" />
+  <img src="رابط_صورة_لوحة_التحكم" width="65%" />
+</p>
 
-## Contributing
+---
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### ⚙️ Development Workflow
+بصفتي مطوراً يلتزم بالمعايير المهنية، تم بناء المشروع باستخدام:
+*   **Git Flow:** استراتيجية صارمة لإدارة الفروع (Branches).
+*   **Clean Code:** كتابة كود نظيف وقابل للصيانة وفق مبادئ SOLID.
+*   **Automation:** دمج ميزات ذكية لرفع كفاءة العمل مثل نظام تنبيهات WhatsApp.
 
-## Code of Conduct
+---
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### 📫 Contact & Support
+- **LinkedIn:** [Elaf Alhadaie](https://www.linkedin.com/in/elaf-alhadaie/)
+- **Portfolio:** [Your Portfolio Link]
